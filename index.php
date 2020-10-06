@@ -7,17 +7,11 @@
 		<?php
 			include("includes/head.inc.php");
 		?>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
-<style>
-body {
-  background-image: url('back.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>		
+		
 			<!-- start header -->
 				<div id="header" >
 					<div id="menu">
