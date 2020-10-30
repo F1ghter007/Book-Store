@@ -18,6 +18,7 @@
 						<?php
 							include("includes/menu.inc.php");
 						?>
+						</br>
 						<img src="images\finnal.png" alt="VIT image" height="210" width="860">
 					</div>
 				</div>
